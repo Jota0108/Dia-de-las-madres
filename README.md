@@ -1,4 +1,4 @@
-# Calculadora
+# Tarjeta del dia de las madres
 
 Esta es un layout-web hecho en javascript vanila usando Vite.js
 ## Pasos para Ejecutar el proyecto 
